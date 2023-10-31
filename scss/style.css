@@ -91,6 +91,12 @@
   border-radius: 8px;
   background: #FFF;
 }
+.card__author img {
+  width: 32px;
+  height: 32px;
+  border-radius: 1000px;
+  background: url(<path-to-image>), lightgray 50%/cover no-repeat;
+}
 
 * {
   margin: 0;
